@@ -1,0 +1,30 @@
+.main_div{
+    background-color:white;
+}
+
+body{
+    background-color: lightpink;
+}
+
+
+.class_right_footer{
+    font-size: 30px;
+    position: fixed;
+    color:darkcyan;
+    bottom: 0;
+    width: 100%;
+    text-shadow:5px 5px 5px rgb(151,140,55);
+}
+
+.main_div button{
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 25px;
+}
+
+.header_div{
+font-size: 15px;
+font-weight: bold;
+font-family: 'Special Elite', cursive;
+}
